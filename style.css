@@ -10,7 +10,7 @@ body {
 }
 
 #Links-profile-container {
-  margin: 5rem auto;
+  margin: 8rem auto;
   width: 384px;
   height: 620px;
   background-color: #1f1f1f;
@@ -123,4 +123,5 @@ Media Queries
   }
   
 }
+
 
